@@ -42,5 +42,6 @@ Approach:
 • Visulazation 
    - Use python tools to visualize and answer all questions
    - Provide power bi dashboard.
+   https://app.powerbi.com/groups/me/reports/7c04ef18-088f-49b8-9807-196229d930ad/ReportSection
 
 
