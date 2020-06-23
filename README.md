@@ -23,19 +23,24 @@ Data Sources
 - https://datausa.io/profile/geo/united-states#covid
 
 - https://www.google.com/covid19/mobility/
+- https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv
+- https://www.timeanddate.com/holidays/us/last-day-of-lockdown
+- https://ballotpedia.org/Status_of_lockdown_and_stay-at-home_orders_in_response_to_the_coronavirus_(COVID-19)_pandemic,_2020
 
 
-Known Issues and Challenges
 
-Challenges include:
+Approach:
 
-•	Pulling the datasets from different sources.
+•	Import the datasets from different sources.
 
-•	Using jupyter notebook to read, split, clean,  
-    convert, and merge the data into one data frame.
+•	Use jupyter notebook to read, split, clean, convert, and merge the data 
+    into one dataset.
 
-•	EDA on the dataset.
+•	EDA the dataset.
 
-•	Using power bi to create a data visualization.
+
+• Visulazation 
+   - Use python tools to visualize and answer all questions
+   - Provide power bi dashboard.
 
 
